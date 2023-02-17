@@ -2,13 +2,13 @@
 
 ---
 
-I include React Bootstrap in my project:
+I included React Bootstrap in my project:
 npm install react-bootstrap bootstrap
 
-Form custom id's I install uuid:
+Form custom id's I installed uuid:
 npm i uuid
 
-The app includes:
+The app has:
 
 - custom components
 - custom hooks
