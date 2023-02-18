@@ -1,11 +1,11 @@
-!!! React Budget App - Simple CRUD budget tracking app !!!
+### React Budget App - Simple CRUD budget tracking app
 
 ---
 
-I included React Bootstrap in my project:
+React Bootstrap is used in the project:
 npm install react-bootstrap bootstrap
 
-Form custom id's I installed uuid:
+Form custom id's are created using uuid:
 npm i uuid
 
 The app has:
